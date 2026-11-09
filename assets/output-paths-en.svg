@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="249" viewBox="0 0 720 249" role="img">
+  <title>Where compressed copies go</title>
+  <rect x="1" y="1" width="718" height="247" rx="20" fill="#f5f6f7" stroke="#d8dce1"/>
+  <g font-family="Segoe UI, Microsoft YaHei UI, PingFang SC, Noto Sans CJK SC, sans-serif"><text x="24" y="49" font-size="30" font-weight="700" fill="#202124">Where compressed copies go</text><rect x="20" y="73" width="680" height="70" rx="15" fill="#fff" stroke="#dde0e4"/><text x="37" y="117" font-size="25" font-weight="700" fill="#202124">Default</text><text x="213" y="117" font-size="24" font-weight="400" fill="#51565d">Each source folder → 压缩输出</text><rect x="20" y="159" width="680" height="70" rx="15" fill="#fff" stroke="#dde0e4"/><text x="37" y="203" font-size="25" font-weight="700" fill="#202124">Custom folder</text><text x="213" y="203" font-size="24" font-weight="400" fill="#51565d">All outputs → the selected folder</text></g>
+</svg>
