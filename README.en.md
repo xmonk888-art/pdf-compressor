@@ -20,7 +20,10 @@ The installer targets Windows 10/11 x64 and includes its runtime. Installation a
 
 ## Quick start
 
-![Four steps: add PDFs, choose a preset, set the output location, then start and review results in the queue](assets/workflow-en.svg)
+<picture>
+  <source media="(max-width: 540px)" srcset="assets/workflow-en-mobile.svg">
+  <img src="assets/workflow-en.svg" alt="Four steps: add PDFs, choose a preset, set the output location, then start and review results in the queue">
+</picture>
 
 1. Drop one or more PDFs or a folder onto the main window. You can also select **＋** to browse. Folder input adds PDFs directly inside that folder. The queue skips files already added.
 2. Select a preset. Try one representative file and check fine text and images in the result.

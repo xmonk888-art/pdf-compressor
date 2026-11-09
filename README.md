@@ -20,7 +20,10 @@
 
 ## 一分钟上手
 
-![四步操作示意。添加 PDF、选择压缩模式、设置保存位置，再开始并在队列查看结果](assets/workflow-zh.svg)
+<picture>
+  <source media="(max-width: 540px)" srcset="assets/workflow-zh-mobile.svg">
+  <img src="assets/workflow-zh.svg" alt="四步操作示意。添加 PDF、选择压缩模式、设置保存位置，再开始并在队列查看结果">
+</picture>
 
 1. **添加文件**。把一个或多个 PDF、或包含 PDF 的文件夹拖入主窗。也可点「＋」选择文件或文件夹。选择文件夹时，程序读取该目录当前层的 PDF。队列会跳过已添加的同一文件。
 2. **选压缩模式**。从「高清保真」「日常分享」「小巧预览」选一档。先压一份代表文件，打开结果检查细小文字和图片。
